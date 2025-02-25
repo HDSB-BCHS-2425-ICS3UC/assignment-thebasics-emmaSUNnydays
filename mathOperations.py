@@ -6,7 +6,7 @@ Write a comment above each variable describing what the math operation does
 
 # Author: Emma Sun
 # Date Modified: 2025/02/25
-# Perform math operations and print results.
+# Description: Perform math operations and print results; describe operation in comments.
 
 import math
 import time
@@ -35,3 +35,5 @@ time.sleep(1.5)
 print(f"3³ is equal to {exponent}! This is exponentiation.")
 time.sleep(1.5)
 print(f"√25 is equal to {squareRoot}! This is square root.")
+time.sleep(1.5)
+print("The end!")
