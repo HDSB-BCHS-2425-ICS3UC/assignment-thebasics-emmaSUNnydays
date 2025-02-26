@@ -16,7 +16,7 @@ subtraction = 10-4  # subtraction/"-" finds the difference of the numbers.
 multiplication = 5*4  # multiplication/"*" finds the product of the numbers.
 division = 8/2  # division/"/" finds the quotient of the numbers.
 modulus = 45%6  # modulus/"%" finds the remainder after dividing the numbers.
-exponent = 3**3  # exponent/"**" multiplies the first number (second number) amount of times.
+exponent = 3**3  # exponent/"**" multiplies the first number by itself [second number] amount of times.
 squareRoot = math.sqrt(25)  # finds the square root of the number.
 
 # These are the print statements .
