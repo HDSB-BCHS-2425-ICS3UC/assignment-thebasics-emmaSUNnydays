@@ -1,9 +1,3 @@
-"""
-Perform Each math operations you have been shown (store the result in a variable) and print the result to the screen.
-
-Write a comment above each variable describing what the math operation does
-"""
-
 # Author: Emma Sun
 # Date Modified: 2025/02/25
 # Description: Perform math operations and print results; describe operation in comments.
