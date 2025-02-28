@@ -12,15 +12,12 @@ When asked, input your value for each varible, then press Enter.
 """)
 time.sleep(3)
 
-# Stores values for a, b, and c.
-a = input("What is your a value?\n")
-a = float(a)
+# user inputs values for a, b, and c.
+a = float(input("What is your a value?\n"))
 time.sleep(1)
-b = input("What is your b value?\n")
-b = float(b)
+b = float(input("What is your b value?\n"))
 time.sleep(1)
-c = input("What is your c value?\n")
-c = float(c)
+c = float(input("What is your c value?\n"))
 time.sleep(1)
 
 discriminant = float(b**2-4*a*c) # Calculates discriminant
