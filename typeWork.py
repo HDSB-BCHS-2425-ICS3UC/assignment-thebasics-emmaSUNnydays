@@ -9,7 +9,7 @@ integer = 15
 float = 4.5
 char = 'e'
 boolean = True
-string = "joe"
+string = "Joe"
 
 # these are definitions of data types.
 integerDefinition = "any positive or negative whole number"
